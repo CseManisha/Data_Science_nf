@@ -1,0 +1,3 @@
+ hi i am manisha
+ this is python
+ C:\Users\manis\Desktop\Data_Science_nf\module1\demo.txt
