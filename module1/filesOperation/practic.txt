@@ -1,0 +1,4 @@
+ hii everyone
+ we are learning file i/o
+ using pyhon
+ i like programming in java
