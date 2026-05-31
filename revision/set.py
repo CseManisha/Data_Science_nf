@@ -1,0 +1,12 @@
+set1={2,4,6,8,10}
+set2={1,2,3,4,5}
+print(set1)
+print(type(set1))
+n_s=set1.union(set2)
+print(n_s)
+n_s2=set1.intersection(set2)
+print(n_s2)
+a=set2|set1
+print(a)
+b=set2&set1
+print(b)
