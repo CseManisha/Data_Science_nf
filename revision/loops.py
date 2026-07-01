@@ -34,16 +34,24 @@ while num>=1:
 #    print(i)
 #    i=i+2
 # print("all number is done")
-print("check number in list")
-num=[2,4,6,7,8]
-i=0
-digit=6
-while i<len(num):
- if(digit==num[i]):
-    print(" number found",num[i],"found at index ",i)
-    break
- i=i+1
-else:
-  print("number not found")
+
+# print("check number in list")
+# num=[2,4,6,7,8]
+# i=0
+# digit=6
+# while i<len(num):
+#  if(digit==num[i]):
+#     print(" number found",num[i],"found at index ",i)
+#     break
+#  i=i+1
+# else:
+#   print("number not found")
+
+print("print talbe of 5")
+table=1
+num=int(input("enter number ="))
+while num<=10:
+    table=table*5
+    
 
 
