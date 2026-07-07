@@ -6,7 +6,7 @@ plt.style.use("seaborn-v0_8")
 age=[19,20,30,40,50]
 salrary=[15000,25000,19000,22000,15000]
 
-# adjust figure size
+# adjust figure size    
 plt.figure(figsize=(10,5))
 #plot line charts
 plt.plot(age,salrary,marker='s',color="blue",linestyle='--',linewidth=2,markerfacecolor="pink",markeredgecolor="red")

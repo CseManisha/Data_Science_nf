@@ -1,0 +1,8 @@
+statistics
+ 
+ descriptive and inferential 
+
+ descriptive--> measure of central tendancy --mean, mode ,median 
+            --> measure of variability -- range , variance, standard deviation and iqr
+            -->measure of frequency distribution -- histogram ,boxplot,pie chart
+inferential 
